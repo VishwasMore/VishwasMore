@@ -20,8 +20,8 @@
 
 ## Live Projects 
 
-**E-Commerce Website** 
-[Code](https://github.com/VishwasMore/Ecom-website-hooks)
+**CRWN Clothing E-Commerce Website** 
+[Code](https://github.com/VishwasMore/crwn-clothings)
 [Live](https://epic-villani-eafb61.netlify.app)
 
 **ReviewCrawlerApp**
