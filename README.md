@@ -47,6 +47,9 @@
 **Object Detetction using SSD**
 [Link](https://github.com/VishwasMore/object-detection-SSD)
 
+**Parts of Speech Tagging with Hidden Malkov Model**
+[Link](https://github.com/VishwasMore/parts-of-speech-tagging)
+
 ## Data Analysis
 
 **HR Data Analysis**
