@@ -50,6 +50,9 @@
 **Parts of Speech Tagging with Hidden Markov Model**
 [Link](https://github.com/VishwasMore/parts-of-speech-tagging)
 
+**Machine Translation Using Encoder-Decoder RNN** 
+[Link](https://github.com/VishwasMore/machine-translation)
+
 ## Data Analysis
 
 **HR Data Analysis**
