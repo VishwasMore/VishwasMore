@@ -1,7 +1,7 @@
 ### Welcome to My GitHub Profile 👋
 
 
-## Programming Languages 
+#### Programming Languages 
 - Python 
 - JavaScript
 
