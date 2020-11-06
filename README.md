@@ -53,6 +53,9 @@
 **Machine Translation Using Encoder-Decoder RNN** 
 [Link](https://github.com/VishwasMore/machine-translation)
 
+**Face Keypoints Detection**
+[Link](https://github.com/VishwasMore/face-detection)
+
 ## Data Analysis
 
 **HR Data Analysis**
