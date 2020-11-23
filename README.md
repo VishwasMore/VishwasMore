@@ -24,10 +24,6 @@
 [Code](https://github.com/VishwasMore/crwn-clothings)
 [Live](https://epic-villani-eafb61.netlify.app)
 
-**ReviewCrawlerApp**
-[Code](https://github.com/VishwasMore/ReviewCrawlerApp)
-[Live](https://review-crawler-app.herokuapp.com)
-
 **MovieDB** 
 [Code](https://github.com/VishwasMore/reactmoviesdb)
 [Live](https://sleepy-austin-ee6b87.netlify.app)
