@@ -1,38 +1,7 @@
 ### Welcome to My GitHub Profile 👋
 
 
-#### Programming Languages 
-- Python 
-- JavaScript
-
-#### Skills
-- Machine Learning
-- Deep Learning
-- Data Analysis
-- Web Development
-
-#### My Web Development Stack 
-- React.js
-- Node.js
-- PostgreSql / MongoDB
-- Express.js / Flask
-- Sass
-
-## Live Projects 
-
-**CRWN Clothing E-Commerce Website** 
-[Code](https://github.com/VishwasMore/crwn-clothings)
-[Live](https://epic-villani-eafb61.netlify.app)
-
-**MovieDB** 
-[Code](https://github.com/VishwasMore/reactmoviesdb)
-[Live](https://sleepy-austin-ee6b87.netlify.app)
-
-**Natours App** 
-[Code](https://github.com/VishwasMore/Natours)
-[Live](https://nervous-lalande-7ee975.netlify.app)
-
-## Machine Learning and Deep Learning
+## Machine Learning and Deep Learning Projects
 
 **Health**
 [Link](https://github.com/VishwasMore/Health-App)
