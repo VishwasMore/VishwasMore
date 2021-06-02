@@ -1,7 +1,7 @@
 ### Welcome to My GitHub Profile 👋
 
 
-## Machine Learning and Deep Learning Projects
+## Machine Learning and Deep Learning Notebooks
 
 **Health**
 [Link](https://github.com/VishwasMore/Health-App)
@@ -21,7 +21,10 @@
 **Face Keypoints Detection**
 [Link](https://github.com/VishwasMore/face-detection)
 
-## Data Analysis
+**Food Vision**
+[Notebook](https://github.com/VishwasMore/Food-Vision-Project)
+
+## Data Analysis Notebooks
 
 **HR Data Analysis**
 [Notebook](https://github.com/VishwasMore/HR-Data-Analysis-and-Prediction/blob/master/HR-Analysis-Prediction-Visualization.ipynb)
